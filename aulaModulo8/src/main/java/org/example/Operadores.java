@@ -17,7 +17,7 @@ public class Operadores {
 
         int num1 = 10;
         int num2 = 10;
-        
+
         //operacao logica
         boolean isDentro10 = num1 >= 1 && num1 <= 10;
         System.out.println("isDentro10: " + isDentro10);

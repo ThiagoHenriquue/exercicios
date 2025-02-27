@@ -7,10 +7,13 @@
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
         <option value="$PROJECT_DIR$/modulo8exer/pom.xml" />
         <option value="$PROJECT_DIR$/aulaModulo8/pom.xml" />
+        <option value="$PROJECT_DIR$/TarefaCalculoMedia/pom.xml" />
+        <option value="$PROJECT_DIR$/tarefaCalculoMedia/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/TarefaCalculoMedia/pom.xml" />
         <option value="$PROJECT_DIR$/modulo8exer/pom.xml" />
       </set>
     </option>

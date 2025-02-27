@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="aulaModulo8" />
+        <module name="tarefaCalculoMedia" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="modulo8exer" target="23" />
+      <module name="TarefaCalculoMedia" target="23" />
       <module name="untitled" target="23" />
     </bytecodeTargetLevel>
   </component>
